@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.d",
+    "diagnostics" : "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/Runner/AppDelegate.swift" : {
+
+  }
+}

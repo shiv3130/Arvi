@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "322dbd42ac8ad91009377054d9deff75ec9e86cb4f91c3106069a3fad9e0f6c9"
+build_start_time: [1719110074, 958194000]
+build_end_time: [1719110077, 436163000]
+inputs:
+  ? "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1719110074, 938391143]
+  "/Users/shivareddy/Desktop/Friend/apps/AppWithWearable/ios/Runner/AppDelegate.swift": [1718988431, 884511542]
