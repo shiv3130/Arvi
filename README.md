@@ -116,8 +116,6 @@ Before starting, make sure you have the following installed:
     - Select your target device in Xcode or Android Studio.
     - Run the app.
 
-[Next Step: Buying Guide →](https://docs.basedhardware.com/assembly/Buying_Guide/)
-
 
 
 ## Licensing
